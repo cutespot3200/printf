@@ -21,7 +21,7 @@
 
 /**
  * struct fmt - Struct op
- *
+ * by Motunrayo and Stephanie
  * @fmt: The format.
  * @fn: The function associated.
  */
@@ -34,7 +34,7 @@ struct fmt
 
 /**
  * typedef struct fmt fmt_t - Struct op
- *
+ * by Motunrayo and Stephanie
  * @fmt: The format.
  * @fm_t: The function associated.
  */
